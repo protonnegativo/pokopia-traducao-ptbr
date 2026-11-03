@@ -1,0 +1,15 @@
+# Nada do jogo nem dos mods gerados entra no repositório.
+build/
+work/
+*.fdata
+*.rdb
+*.rdx
+*.g1t
+*.BIN
+*.IDX
+*.bin
+*.tsv
+*.log
+*.ttf
+__pycache__/
+*.pyc
